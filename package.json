@@ -1,0 +1,22 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "Chat Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "chatApp"
+  },
+  "keywords": [
+    "Nodejs"
+  ],
+  "author": "Rahul",
+  "license": "ISC",
+  "dependencies":{
+    "socket.io":"*",
+    "express":"*"
+  }
+}
